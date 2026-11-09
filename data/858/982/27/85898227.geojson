@@ -125,10 +125,10 @@
     "wof:geomhash":"a6547e027d314211535b084db55de183",
     "wof:hierarchy":[
         {
+            "borough_id":1393843427,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108810141,
-            "locality_id":101913173,
             "macroregion_id":404228357,
             "neighbourhood_id":85898227,
             "region_id":85688279
